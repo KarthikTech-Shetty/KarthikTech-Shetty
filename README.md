@@ -1,4 +1,4 @@
-# 💫 Hi 👋😊, I'm Karthik Shetty
+# 💫 Hi 👋😊, I'm Karthik 
 **A passionate python developer  || Tech-savvy || Data-Driven Problem Solver 🌐**
 
 Email Me 👉 ✉️ **karthikshetty5528@gmail.com** For Project or Anything Else. 😊😊
