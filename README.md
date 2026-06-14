@@ -1,7 +1,11 @@
 # 💫 Hi 👋😊, I'm Karthik Shetty
-**A passionate python developer  || Tech-savvy || Data-Driven Problem Solver || Transforming complex data into real-world solutions 🌐**
+**A passionate python developer  || Tech-savvy || Data-Driven Problem Solver 🌐**
 
 Email Me 👉 ✉️ **karthikshetty5528@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+
+
+
 
 
 # 💻 Tech Stack:
@@ -12,6 +16,9 @@ Email Me 👉 ✉️ **karthikshetty5528@gmail.com** For Collaboration/Project o
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+
+
 
 
 # 📊 GitHub Stats:
