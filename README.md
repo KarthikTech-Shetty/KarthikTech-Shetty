@@ -1,7 +1,7 @@
 # 💫 Hi 👋😊, I'm Karthik Shetty
 **A passionate python developer  || Tech-savvy || Data-Driven Problem Solver 🌐**
 
-Email Me 👉 ✉️ **karthikshetty5528@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **karthikshetty5528@gmail.com** For Project or Anything Else. 😊😊
 
 
 
